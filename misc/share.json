@@ -1,0 +1,303 @@
+{
+    "Expenses": [
+      {
+        "Expense": "CNG",
+        "Amount": 630,
+        "paid_by": "V",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": true},
+          {"personName": "Aish", "hasShare": true},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": true},
+          {"personName": "Sid", "hasShare": true},
+          {"personName": "V", "hasShare": true}
+        ]
+      },
+      {
+        "Expense": "Cab advance",
+        "Amount": 2000,
+        "paid_by": "Abhi",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": true},
+          {"personName": "Aish", "hasShare": true},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": true},
+          {"personName": "Sid", "hasShare": true},
+          {"personName": "V", "hasShare": true}
+        ]
+      },
+      {
+        "Expense": "Fast tag",
+        "Amount": 170,
+        "paid_by": "Sid",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": true},
+          {"personName": "Aish", "hasShare": true},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": true},
+          {"personName": "Sid", "hasShare": true},
+          {"personName": "V", "hasShare": true}
+        ]
+      },
+      {
+        "Expense": "CNG",
+        "Amount": 692,
+        "paid_by": "Arun",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": true},
+          {"personName": "Aish", "hasShare": true},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": true},
+          {"personName": "Sid", "hasShare": true},
+          {"personName": "V", "hasShare": true}
+        ]
+      },
+      {
+        "Expense": "AMA Cafe",
+        "Amount": 3360,
+        "paid_by": "Sid",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": true},
+          {"personName": "Aish", "hasShare": true},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": true},
+          {"personName": "Sid", "hasShare": true},
+          {"personName": "V", "hasShare": true}
+        ]
+      },
+      {
+        "Expense": "Toll",
+        "Amount": 60,
+        "paid_by": "V",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": true},
+          {"personName": "Aish", "hasShare": true},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": true},
+          {"personName": "Sid", "hasShare": true},
+          {"personName": "V", "hasShare": true}
+        ]
+      },
+      {
+        "Expense": "Ring game",
+        "Amount": 100,
+        "paid_by": "V",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": true},
+          {"personName": "Aish", "hasShare": true},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": true},
+          {"personName": "Sid", "hasShare": true},
+          {"personName": "V", "hasShare": true}
+        ]
+      },
+      {
+        "Expense": "Chaat",
+        "Amount": 50,
+        "paid_by": "Aish",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": true},
+          {"personName": "Aish", "hasShare": true},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": true},
+          {"personName": "Sid", "hasShare": true},
+          {"personName": "V", "hasShare": true}
+        ]
+      },
+      {
+        "Expense": "Momos",
+        "Amount": 327,
+        "paid_by": "Rads",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": true},
+          {"personName": "Aish", "hasShare": true},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": true},
+          {"personName": "Sid", "hasShare": true},
+          {"personName": "V", "hasShare": true}
+        ]
+      },
+      {
+        "Expense": "Maggie & Momos",
+        "Amount": 250,
+        "paid_by": "Abhi",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": true},
+          {"personName": "Aish", "hasShare": true},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": true},
+          {"personName": "Sid", "hasShare": true},
+          {"personName": "V", "hasShare": true}
+        ]
+      },
+      {
+        "Expense": "Chick Chocolate",
+        "Amount": 750,
+        "paid_by": "Sid",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": false},
+          {"personName": "Aish", "hasShare": false},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": false},
+          {"personName": "Sid", "hasShare": true},
+          {"personName": "V", "hasShare": true}
+        ]
+      },
+      {
+        "Expense": "Dinner at Tarvent",
+        "Amount": 1797,
+        "paid_by": "Sid",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": true},
+          {"personName": "Aish", "hasShare": true},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": true},
+          {"personName": "Sid", "hasShare": true},
+          {"personName": "V", "hasShare": true}
+        ]
+      },
+      {
+        "Expense": "Parking",
+        "Amount": 200,
+        "paid_by": "Abhi",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": true},
+          {"personName": "Aish", "hasShare": true},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": true},
+          {"personName": "Sid", "hasShare": true},
+          {"personName": "V", "hasShare": true}
+        ]
+      },
+      {
+        "Expense": "Chai",
+        "Amount": 220,
+        "paid_by": "Aish",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": true},
+          {"personName": "Aish", "hasShare": true},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": false},
+          {"personName": "Sid", "hasShare": false},
+          {"personName": "V", "hasShare": true}
+        ]
+      },
+      {
+        "Expense": "Breakfast",
+        "Amount": 1250,
+        "paid_by": "V",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": true},
+          {"personName": "Aish", "hasShare": true},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": true},
+          {"personName": "Sid", "hasShare": true},
+          {"personName": "V", "hasShare": true}
+        ]
+      },
+      {
+        "Expense": "Parking at chaar dukaan",
+        "Amount": 150,
+        "paid_by": "Arun",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": true},
+          {"personName": "Aish", "hasShare": true},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": true},
+          {"personName": "Sid", "hasShare": true},
+          {"personName": "V", "hasShare": true}
+        ]
+      },
+      {
+        "Expense": "Miscellaneous water, etc",
+        "Amount": 200,
+        "paid_by": "Sid",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": true},
+          {"personName": "Aish", "hasShare": true},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": true},
+          {"personName": "Sid", "hasShare": true},
+          {"personName": "V", "hasShare": true}
+        ]
+      },
+      {
+        "Expense": "Haldirams",
+        "Amount": 1310,
+        "paid_by": "Abhi",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": true},
+          {"personName": "Aish", "hasShare": true},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": true},
+          {"personName": "Sid", "hasShare": true},
+          {"personName": "V", "hasShare": true}
+        ]
+      },
+      {
+        "Expense": "CNG",
+        "Amount": 620,
+        "paid_by": "V",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": true},
+          {"personName": "Aish", "hasShare": true},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": true},
+          {"personName": "Sid", "hasShare": true},
+          {"personName": "V", "hasShare": true}
+        ]
+      },
+      {
+        "Expense": "Toll",
+        "Amount": 170,
+        "paid_by": "V",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": true},
+          {"personName": "Aish", "hasShare": true},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": true},
+          {"personName": "Sid", "hasShare": true},
+          {"personName": "V", "hasShare": true}
+        ]
+      },
+      {
+        "Expense": "CNG",
+        "Amount": 592,
+        "paid_by": "Sid",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": true},
+          {"personName": "Aish", "hasShare": true},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": true},
+          {"personName": "Sid", "hasShare": true},
+          {"personName": "V", "hasShare": true}
+        ]
+      },
+      {
+        "Expense": "Driver exp.",
+        "Amount": 200,
+        "paid_by": "Rads",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": true},
+          {"personName": "Aish", "hasShare": true},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": true},
+          {"personName": "Sid", "hasShare": true},
+          {"personName": "V", "hasShare": true}
+        ]
+      },
+      {
+        "Expense": "Cab payment",
+        "Amount": 6100,
+        "paid_by": "Abhi",
+        "personShare": [
+          {"personName": "Abhi", "hasShare": true},
+          {"personName": "Aish", "hasShare": true},
+          {"personName": "Arun", "hasShare": true},
+          {"personName": "Rads", "hasShare": true},
+          {"personName": "Sid", "hasShare": true},
+          {"personName": "V", "hasShare": true}
+        ]
+      }
+    ]
+  }
